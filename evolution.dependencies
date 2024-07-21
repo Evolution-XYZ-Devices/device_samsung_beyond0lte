@@ -1,0 +1,10 @@
+[
+    {
+        "repository": "device_samsung_exynos9820-common",
+        "target_path": "device/samsung/exynos9820-common"
+    },
+    {
+        "repository": "vendor_samsung_beyond0lte",
+        "target_path": "vendor/samsung/beyond0lte"
+    }
+]
